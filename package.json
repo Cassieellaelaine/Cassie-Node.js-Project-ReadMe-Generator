@@ -1,0 +1,21 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "json package",
+  "main": "index js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Cassie Node.js Project"
+  },
+  "keywords": [
+    "nodes"
+  ],
+  "author": "Cassie Owens",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
