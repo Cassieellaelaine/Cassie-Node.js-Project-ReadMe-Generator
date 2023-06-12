@@ -22,3 +22,5 @@ WHEN I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
+
+Link to Screencastify video - https://drive.google.com/file/d/1-estpwsmSNLUOSunwjrLFBSeqiWIXJ3S/view
